@@ -1,1 +1,1 @@
-print("hello, java")
+print("hello, c++")
